@@ -26,4 +26,5 @@ PIAI_project
 <br/>
 
 ### **Notion Page**
-![notionQRcode](C:\Users\piai\Desktop\유해정\notion site QRcode.png)
+![notion site QRcode](https://user-images.githubusercontent.com/118980404/225178675-dd56cae1-07ed-46a6-9934-78ab45432910.png)
+
