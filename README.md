@@ -1,7 +1,7 @@
 # recommendor_system
 PIAI_project
 
-   
+<br/>
 
 # About this project
 
@@ -13,8 +13,8 @@ PIAI_project
 - 해당 상품 추천 엔진으로서는 사용자 기반 추천 시스템으로 CBF 기법을 활용하여 유사도를 활용한 소비자 간의 user-based similarity를 기반으로 메뉴 추천 수행
 - 유사도가 높은 소비자의 평점 정보를 바탕으로 타깃 유저에 대한 개인화된 메뉴 추천 수행
 
+<br/>
 
-   
 # **Problem Description**
 
 - 구미 진평 먹자골목
