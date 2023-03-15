@@ -1,7 +1,7 @@
 # recommendor_system
 PIAI_project
 
-
+   
 
 # About this project
 
@@ -14,7 +14,7 @@ PIAI_project
 - 유사도가 높은 소비자의 평점 정보를 바탕으로 타깃 유저에 대한 개인화된 메뉴 추천 수행
 
 
-
+   
 # **Problem Description**
 
 - 구미 진평 먹자골목
