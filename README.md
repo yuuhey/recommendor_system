@@ -48,6 +48,7 @@ PIAI_project
 [강원도 원주시_다국어메뉴정보](https://www.data.go.kr/data/15076727/fileData.do) & [강원도 원주시_다국어메뉴설명정보](https://www.data.go.kr/data/15099623/fileData.do)
 
 강원도 원주시에 위치한 음식점에서 판매하는 메뉴를 한국어, 중국어, 영어, 일본어로 적어놓은 데이터
+  
 식당명, 메뉴명, 메뉴가격, 지역특산메뉴여부, 메뉴설명(주재료) 등의 컬럼으로 이루어진 데이터
 
 ### food_dataset_preprocessing.ipynb 
@@ -55,6 +56,7 @@ PIAI_project
 
 ### menu_recipe_similarity.ipynb 
 메뉴 설명, 대분류 등을 이용하여 워드임베딩을 통해 음식 간 유사도 분석 작업
+  
 **@ menu_recipe_similarity.py** 파일 내 정의함수를 사용하기 위해 py로 저장
 
 ### review_crawling.ipynb
