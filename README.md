@@ -1,6 +1,8 @@
 # recommendor_system
 PIAI_project
 
+
+
 # About this project
 
 💡 메뉴(상품) 추천 알고리즘 설계 및 개발(성능 목표치 : Hit Rate@K 0.55 이상)
@@ -10,6 +12,8 @@ PIAI_project
 - 소비자의 성별, 연령 등의 정보를 기반으로 유사 소비자군을 군집화하고 해당 군집을 기반으로 메뉴 추천 시스템 개발
 - 해당 상품 추천 엔진으로서는 사용자 기반 추천 시스템으로 CBF 기법을 활용하여 유사도를 활용한 소비자 간의 user-based similarity를 기반으로 메뉴 추천 수행
 - 유사도가 높은 소비자의 평점 정보를 바탕으로 타깃 유저에 대한 개인화된 메뉴 추천 수행
+
+
 
 # **Problem Description**
 
