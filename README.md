@@ -20,3 +20,10 @@ PIAI_project
 - 구미 진평 먹자골목
 - 가족단위 외식, 회식
 - 나이, 성별 알 수 없음
+
+<br/>
+<br/>
+<br/>
+
+### **Notion Page**
+![notionQRcode](C:\Users\piai\Desktop\유해정\notion site QRcode.png)
