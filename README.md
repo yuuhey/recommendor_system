@@ -27,4 +27,4 @@ PIAI_project
 
 ## **[Notion Page](https://sleepy-judge-889.notion.site/a49e5ae824be467783b586db14cf541c)**
 
-<img src="https://user-images.githubusercontent.com/118980404/225178675-dd56cae1-07ed-46a6-9934-78ab45432910.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/118980404/225178675-dd56cae1-07ed-46a6-9934-78ab45432910.png" width="300" height="300"/>
