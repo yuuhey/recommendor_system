@@ -25,17 +25,13 @@ PIAI_project
 <br/>
 <br/>
 
+----
 # **File Description**
 ## <span style="color:green" >[ 사용한 데이터 ]
 - 3.소비자+ 유형별+선호+메뉴.csv
 - MENU INFO KOREAN.csv
 - MENU DSCRN INFO KOREAN.csv
 
-<br/>
-
--------
-
-<br/>
 <br/>
 
 ## <span style="color:green"> [ 파일 설명 ]
