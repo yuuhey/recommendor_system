@@ -1,5 +1,5 @@
 # recommendor_system
-PIAI_project
+인공지능연구원 연구사업
 
 <br/>
 
